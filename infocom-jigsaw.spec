@@ -22,6 +22,15 @@ your ideal party (especially as that rather attractive stranger in
 black has slipped back into the crowds) - but cheer up, you won't live
 to see the next.
 
+%description -l pl
+
+Sylwester 1999, kwadrans przed pó³noc± gdzie¿ mo¿na byæ, jak nie w
+Parku Stulecia (Century Park)! Zimne ognie rospryskuj± siê na niebie,
+nieprzyjemnie burczy ci w brzuchu, muzyka i lasery wyj± w ca³ym
+parku... Twoja niekoniecznie idealna partnerka (zw³aszcza, ¿e ta
+ca³kiem atrakcyjna nieznajoma w czerni ponownie zla³a siê z t³umem) -
+ale rozchmurz siê, nie bêdziesz czekaæ a¿ ujrzysz nestêpn±.
+
 %prep
 
 %install
