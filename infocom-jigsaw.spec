@@ -3,13 +3,13 @@ Summary:	Infocom text game - Jigsaw
 Summary(pl):	Tekstówka Infocomu - Jigsaw
 Name:		infocom-jigsaw
 Version:	951129
-Release:	1
+Release:	2
 License:	free
 Group:		Applications/Games
 Source0:	ftp://ftp.ifarchive.org/if-archive/games/zcode/%{_name}.z8
 # Source0-md5:	1bf8b3f6edbffb0f83bb61dbb56dd17d
 URL:		http://www.ifarchive.org/
-Requires:	frotz
+Requires:	zcode-wrapper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
