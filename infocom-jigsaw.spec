@@ -1,6 +1,6 @@
 %define		_name		Jigsaw
 Summary:	Infocom text game - Jigsaw
-Summary(pl.UTF-8):   Tekstówka Infocomu - Jigsaw
+Summary(pl.UTF-8):	Tekstówka Infocomu - Jigsaw
 Name:		infocom-jigsaw
 Version:	951129
 Release:	2
